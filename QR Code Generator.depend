@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1789081323 source:c:\users\ryzen\onedrive\desktop\info\c projects\qr code generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	"qrcodegen.h"
+
+1788204994 c:\users\ryzen\onedrive\desktop\info\c projects\qr code generator\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1788204994 c:\users\ryzen\onedrive\desktop\info\c projects\qr code generator\qrcodegen\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
