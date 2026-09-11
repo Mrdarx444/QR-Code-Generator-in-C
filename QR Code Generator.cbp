@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="QRCodeGen/qrcodegen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="QRCodeGen/qrcodegen.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
