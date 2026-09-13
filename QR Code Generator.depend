@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1789141656 source:c:\users\ryzen\onedrive\desktop\info\c projects\qr code generator\main.c
+1789334085 source:c:\users\ryzen\onedrive\desktop\info\c projects\qr code generator\main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
 	<stdint.h>
+	<string.h>
 	"QRCodeGen/qrcodegen.h"
 	"TinyPng/TinyPngOut.h"
 

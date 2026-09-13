@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="QRCodeGen/qrcodegen.h" />
+		<Unit filename="TinyPng/TinyPngOut.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TinyPng/TinyPngOut.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
